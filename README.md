@@ -13,7 +13,7 @@
 - 👀 I am so meet the GitHub...
 </p>
 <p>
-- Etec - Infonet 2/3
+- Etec - Infonet 3/3
 </p>
 <!-- Dropdown -->
 <details>
